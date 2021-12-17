@@ -1,0 +1,342 @@
+{
+	"callback": "test",
+	"code": 0,
+	"result": {
+		"info": {
+			"players": {
+				"1": [//第几个bo，第一个左 第二个右
+					[{
+							"xiuwei": "74594.0",
+							"school": 4,//门派
+							"level": 160,
+							"id": "YG+yiLp5sER4Vj2u",
+							"body_type": 1,//体型
+                                                                //门派+体型=>立绘
+							"nickname": "白秋然丶",
+							"zongpai": 401
+						},
+						{
+							"xiuwei": "11064.0",
+							"school": 5,
+							"level": 160,
+							"id": "YHAL1bp5sHY6bF2p",
+							"body_type": 0,
+							"nickname": "孁",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "71002.0",
+							"school": 5,
+							"level": 160,
+							"id": "YHALmrp5sHY6bFuf",
+							"body_type": 0,
+							"nickname": "紅袍丶",
+							"zongpai": 501
+						},
+						{
+							"xiuwei": "73277.0",
+							"school": 8,
+							"level": 160,
+							"id": "YHALQbp5sHY6bFfd",
+							"body_type": 0,
+							"nickname": "夜叉氵",
+							"zongpai": 801
+						},
+						{
+							"xiuwei": "20731.0",
+							"school": 1,
+							"level": 109,
+							"id": "YHAORbp5sHY6bHW0",
+							"body_type": 0,
+							"nickname": "洛陽丶",
+							"zongpai": 0
+						}
+					],
+					[{
+							"xiuwei": "74286.0",
+							"school": 1,
+							"level": 160,
+							"id": "YG+30bp5sER4VnC7",
+							"body_type": 0,
+							"nickname": "奈落氵",
+							"zongpai": 102
+						},
+						{
+							"xiuwei": "31075.0",
+							"school": 1,
+							"level": 149,
+							"id": "YHANbrp5sHY6bG8/",
+							"body_type": 1,
+							"nickname": "行尽江南丷",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "22583.0",
+							"school": 5,
+							"level": 149,
+							"id": "YHANpLp5sHY6bHEk",
+							"body_type": 1,
+							"nickname": "青菜豆腐湯",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "24145.0",
+							"school": 3,
+							"level": 160,
+							"id": "YHAM4bp5sHY6bGlD",
+							"body_type": 0,
+							"nickname": "许家七七",
+							"zongpai": 302
+						},
+						{
+							"xiuwei": "16475.0",
+							"school": 4,
+							"level": 160,
+							"id": "YHAMjrp5sHY6bGHx",
+							"body_type": 1,
+							"nickname": "池鹤佩",
+							"zongpai": 402
+						}
+					]
+				],
+				"2": [
+					[{
+							"xiuwei": "71002.0",
+							"school": 5,
+							"level": 160,
+							"id": "YHALmrp5sHY6bFuf",
+							"body_type": 0,
+							"nickname": "紅袍丶",
+							"zongpai": 501
+						},
+						{
+							"xiuwei": "74594.0",
+							"school": 4,
+							"level": 160,
+							"id": "YG+yiLp5sER4Vj2u",
+							"body_type": 1,
+							"nickname": "白秋然丶",
+							"zongpai": 401
+						},
+						{
+							"xiuwei": "20731.0",
+							"school": 1,
+							"level": 109,
+							"id": "YHAORbp5sHY6bHW0",
+							"body_type": 0,
+							"nickname": "洛陽丶",
+							"zongpai": 0
+						}
+					],
+					[{
+							"xiuwei": "31075.0",
+							"school": 1,
+							"level": 149,
+							"id": "YHANbrp5sHY6bG8/",
+							"body_type": 1,
+							"nickname": "行尽江南丷",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "16475.0",
+							"school": 4,
+							"level": 160,
+							"id": "YHAMjrp5sHY6bGHx",
+							"body_type": 1,
+							"nickname": "池鹤佩",
+							"zongpai": 402
+						},
+						{
+							"xiuwei": "24145.0",
+							"school": 3,
+							"level": 160,
+							"id": "YHAM4bp5sHY6bGlD",
+							"body_type": 0,
+							"nickname": "许家七七",
+							"zongpai": 302
+						}
+					]
+				],
+				"3": [
+					[{
+						"xiuwei": "73277.0",
+						"school": 8,
+						"level": 160,
+						"id": "YHALQbp5sHY6bFfd",
+						"body_type": 0,
+						"nickname": "夜叉氵",
+						"zongpai": 801
+					}],
+					[{
+						"xiuwei": "74286.0",
+						"school": 1,
+						"level": 160,
+						"id": "YG+30bp5sER4VnC7",
+						"body_type": 0,
+						"nickname": "奈落氵",
+						"zongpai": 102
+					}]
+				],
+				"4": [
+					[{
+							"xiuwei": "74594.0",
+							"school": 4,
+							"level": 160,
+							"id": "YG+yiLp5sER4Vj2u",
+							"body_type": 1,
+							"nickname": "白秋然丶",
+							"zongpai": 401
+						},
+						{
+							"xiuwei": "71002.0",
+							"school": 5,
+							"level": 160,
+							"id": "YHALmrp5sHY6bFuf",
+							"body_type": 0,
+							"nickname": "紅袍丶",
+							"zongpai": 501
+						},
+						{
+							"xiuwei": "20731.0",
+							"school": 1,
+							"level": 109,
+							"id": "YHAORbp5sHY6bHW0",
+							"body_type": 0,
+							"nickname": "洛陽丶",
+							"zongpai": 0
+						}
+					],
+					[{
+							"xiuwei": "31075.0",
+							"school": 1,
+							"level": 149,
+							"id": "YHANbrp5sHY6bG8/",
+							"body_type": 1,
+							"nickname": "行尽江南丷",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "24145.0",
+							"school": 3,
+							"level": 160,
+							"id": "YHAM4bp5sHY6bGlD",
+							"body_type": 0,
+							"nickname": "许家七七",
+							"zongpai": 302
+						},
+						{
+							"xiuwei": "22583.0",
+							"school": 5,
+							"level": 149,
+							"id": "YHANpLp5sHY6bHEk",
+							"body_type": 1,
+							"nickname": "青菜豆腐湯",
+							"zongpai": 0
+						}
+					]
+				],
+				"5": [
+					[{
+							"xiuwei": "74594.0",
+							"school": 4,
+							"level": 160,
+							"id": "YG+yiLp5sER4Vj2u",
+							"body_type": 1,
+							"nickname": "白秋然丶",
+							"zongpai": 401
+						},
+						{
+							"xiuwei": "71002.0",
+							"school": 5,
+							"level": 160,
+							"id": "YHALmrp5sHY6bFuf",
+							"body_type": 0,
+							"nickname": "紅袍丶",
+							"zongpai": 501
+						},
+						{
+							"xiuwei": "73277.0",
+							"school": 8,
+							"level": 160,
+							"id": "YHALQbp5sHY6bFfd",
+							"body_type": 0,
+							"nickname": "夜叉氵",
+							"zongpai": 801
+						},
+						{
+							"xiuwei": "20731.0",
+							"school": 1,
+							"level": 109,
+							"id": "YHAORbp5sHY6bHW0",
+							"body_type": 0,
+							"nickname": "洛陽丶",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "11064.0",
+							"school": 5,
+							"level": 160,
+							"id": "YHAL1bp5sHY6bF2p",
+							"body_type": 0,
+							"nickname": "孁",
+							"zongpai": 0
+						}
+					],
+					[{
+							"xiuwei": "74286.0",
+							"school": 1,
+							"level": 160,
+							"id": "YG+30bp5sER4VnC7",
+							"body_type": 0,
+							"nickname": "奈落氵",
+							"zongpai": 102
+						},
+						{
+							"xiuwei": "16475.0",
+							"school": 4,
+							"level": 160,
+							"id": "YHAMjrp5sHY6bGHx",
+							"body_type": 1,
+							"nickname": "池鹤佩",
+							"zongpai": 402
+						},
+						{
+							"xiuwei": "31075.0",
+							"school": 1,
+							"level": 149,
+							"id": "YHANbrp5sHY6bG8/",
+							"body_type": 1,
+							"nickname": "行尽江南丷",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "22583.0",
+							"school": 5,
+							"level": 149,
+							"id": "YHANpLp5sHY6bHEk",
+							"body_type": 1,
+							"nickname": "青菜豆腐湯",
+							"zongpai": 0
+						},
+						{
+							"xiuwei": "24145.0",
+							"school": 3,
+							"level": 160,
+							"id": "YHAM4bp5sHY6bGlD",
+							"body_type": 0,
+							"nickname": "许家七七",
+							"zongpai": 302
+						}
+					]
+				]
+			},
+			"team_name": [
+				"左左左左左左",//左队名
+				"右右右右右右"//右队名
+			]
+		},
+		"msg": "success",
+		"code": 200
+	},
+	"uid": ""
+}
