@@ -4,14 +4,13 @@
 	"result": {
 		"info": {
 			"players": {
-				"1": [//第几个bo，第一个左 第二个右
+				"1": [
 					[{
 							"xiuwei": "74594.0",
-							"school": 4,//门派
+							"school": 4,
 							"level": 160,
 							"id": "YG+yiLp5sER4Vj2u",
-							"body_type": 1,//体型
-                                                                //门派+体型=>立绘
+							"body_type": 1,
 							"nickname": "白秋然丶",
 							"zongpai": 401
 						},
@@ -331,8 +330,8 @@
 				]
 			},
 			"team_name": [
-				"左左左左左左",//左队名
-				"右右右右右右"//右队名
+				"左左左左左左",
+				"右右右右右右"
 			]
 		},
 		"msg": "success",
